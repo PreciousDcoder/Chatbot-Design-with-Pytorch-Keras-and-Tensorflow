@@ -1,0 +1,2 @@
+C:\Users\benke\PYTHON TUTORIAL GOMYCODE\chatbot_DS\.conda\Lib
+C:\Users\benke\PYTHON TUTORIAL GOMYCODE\chatbot_DS\.conda\Library
